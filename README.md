@@ -12,6 +12,6 @@ Semi Supervised Classification of Youtube videos from a curated list of inapprop
 
 Python, NLTK , Sci-kit Learn
 
-**Data Collected:*
+**Data Collected:**
 
 Youtube Captions
